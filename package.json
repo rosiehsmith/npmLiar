@@ -1,0 +1,22 @@
+{
+  "name": "npmliar",
+  "version": "1.0.0",
+  "description": "Lies to you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosiehsmith/npmLiar.git"
+  },
+  "keywords": [
+    "liar"
+  ],
+  "author": "Rosie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosiehsmith/npmLiar/issues"
+  },
+  "homepage": "https://github.com/rosiehsmith/npmLiar#readme"
+}
